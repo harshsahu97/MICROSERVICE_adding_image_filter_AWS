@@ -13,7 +13,7 @@ http://image-filter-starter-code-dev.ap-south-1.elasticbeanstalk.com/
 
 ## Live Test
 * Link to Regular Image : https://i.ibb.co/568zQd0/xx.jpg
-* Filtered image via This microservice : http://image-filter-starter-code-dev.ap-south-1.elasticbeanstalk.com/?image_url=https://i.ibb.co/568zQd0/xx.jpg
+* Filtered image via This microservice : http://image-filter-starter-code-dev.ap-south-1.elasticbeanstalk.com/filteredimage?image_url=https://i.ibb.co/568zQd0/xx.jpg
 
 ## AWS Elastic Beanstlak instance screenshot
 ![](deployment_screenshots/ss.png)
