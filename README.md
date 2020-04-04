@@ -11,7 +11,10 @@ This Image Filtering Microservice is deployed on AWS. This project demonstrates 
 ## AWS EB Link
 http://image-filter-starter-code-dev.ap-south-1.elasticbeanstalk.com/
 
-## Live Test
+## Test with your own image:
+* http://image-filter-starter-code-dev.ap-south-1.elasticbeanstalk.com/filteredimage?image_url=<YOUR_IMAGE_URL>
+
+## Live Test with default image
 * Link to Regular Image : https://i.ibb.co/568zQd0/xx.jpg
 * Filtered image via This microservice : http://image-filter-starter-code-dev.ap-south-1.elasticbeanstalk.com/filteredimage?image_url=https://i.ibb.co/568zQd0/xx.jpg
 
