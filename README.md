@@ -25,5 +25,5 @@ http://image-filter-starter-code-dev.ap-south-1.elasticbeanstalk.com/
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Issues
+## Issues?
 Contact me on [Twitter](https://twitter.com/harshsahu97).
